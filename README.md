@@ -5,6 +5,9 @@ Navigate to ```EE501_Project2_CadenceLib``` folder
 
 ```git add .```
 
+```git add --all```(use this if you have deleted some files)
+
+
 ```git commit -m "<ENTER COMMIT MESSAGE HERE>"```
 
 ```git push```
