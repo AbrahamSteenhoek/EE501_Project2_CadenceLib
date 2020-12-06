@@ -1,0 +1,18 @@
+\o Program:		@(#)$CDS: libManager version 6.1.8 - CAT37 06/27/2019 20:50 (sjfhw027) $
+\o Sub version:		sub-version  s043 
+\o Arguments:		-unmapped -mpssession virtuoso10274 -mpshost vlinux-31.ece.iastate.edu 
+\o Working Directory:	vlinux-31.ece.iastate.edu:/home/nithinl/EE501/cmrf8sf/EE501_Project2_CadenceLib
+\o 64-bit offsets
+\o Qt version: 		5.9.1
+\o changeWorkingDir("/home/nithinl/EE501/cmrf8sf/EE501_Project2_CadenceLib") unnecessary.
+\o ddSetForcedLib("") unnecessary.
+\o Log file is "/home/nithinl/EE501/cmrf8sf/EE501_Project2_CadenceLib/libManager.log".
+\o Opening libManager window.
+\a nrSetWindowVisibility(cdsLibManager "show")
+\o MPS service: map window
+\o Library Manager customization server connected.
+\a nrSetCurrentWindow(cdsLibManager)
+\a nrResizeWindow(cdsLibManager list(666 152 990 712))
+\o MPS service: shutdown
+\o libManager is exiting.
+\a exit(0)
